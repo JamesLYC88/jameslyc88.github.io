@@ -14,10 +14,8 @@ redirect_from:
 
 Education
 ======
-- Carnegie Mellon University, MS in Machine Learning, Aug. 2023 - Dec. 2024  
-  Coursework: Statistics, Probabilistic Graphical Models, Convex Optimization, LLM Systems, Image Synthesis
-- National Taiwan University, BS in Computer Science, Sep. 2017 - Jan. 2023  
-  Coursework: Machine Learning Foundations, Machine Learning, Deep Learning for Computer Vision, Applied Deep Learning, Digital Speech Processing, Security and Privacy of Machine Learning, Parallel Programming, Object-Oriented Programming
+- Carnegie Mellon University, MS in Machine Learning, Aug. 2023 - Dec. 2024
+- National Taiwan University, BS in Computer Science, Sep. 2017 - Jan. 2023
 
 Professional Experience
 ======
