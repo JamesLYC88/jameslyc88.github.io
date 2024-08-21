@@ -12,6 +12,13 @@ redirect_from:
 - Conducted NLP research at [MBZUAI](https://mbzuai.ac.ae) and [ASUS-AICS](https://aics.asus.com). My work [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://arxiv.org/abs/2306.07111) has won ACL Outstanding Paper Award.
 - Contributor to [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel), a library for multi-class and multi-label classification.
 
+Education
+======
+- Carnegie Mellon University, MS in Machine Learning, Aug. 2023 - Dec. 2024  
+  Coursework: Statistics, Probabilistic Graphical Models, Convex Optimization, LLM Systems, Image Synthesis
+- National Taiwan University, BS in Computer Science, Sep. 2017 - Jan. 2023  
+  Coursework: Machine Learning Foundations, Machine Learning, Deep Learning for Computer Vision, Applied Deep Learning, Digital Speech Processing, Security and Privacy of Machine Learning, Parallel Programming, Object-Oriented Programming
+
 Professional Experience
 ======
 - Machine Learning Engineer Intern @ Adobe Search, San Jose, May 2024 - Aug. 2024  
