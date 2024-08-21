@@ -9,7 +9,7 @@ redirect_from:
 
 - Second-year Master's student in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu).
 - Focused on applied machine learning, particularly in search and recommendation systems, with internship experience at Adobe Search and Microsoft Bing Advertising.
-- Conducted NLP research at [MBZUAI](https://mbzuai.ac.ae) and [ASUS-AICS](https://aics.asus.com). My work [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://arxiv.org/abs/2306.07111) has won ACL Outstanding Paper Award.
+- Conducted NLP research at [MBZUAI](https://mbzuai.ac.ae) and [ASUS-AICS](https://aics.asus.com). My work [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://aclanthology.org/2023.acl-short.160/) has won ACL Outstanding Paper Award.
 - Contributor to [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel), a library for multi-class and multi-label classification.
 
 Education
@@ -34,11 +34,11 @@ Projects
   Utilized CuPy for GPU arrays and enabled mixed precision training with MiniTorch for LLM development.
 - [Minimal Version of Sora](https://www.andrew.cmu.edu/course/16-726-sp24/projects/ylin7/project/)  
   Implemented with CLIP text encoder, diffusion transformer, DDIM scheduler, and classifier-free guidance.
-- [A Baseline for Text Classification](https://arxiv.org/abs/2306.07111)  
+- [A Baseline for Text Classification](https://aclanthology.org/2023.acl-short.160/)  
   Concluded simple linear baselines must be conducted to ensure the proper use of the advanced LLMs.
 
 Publications
 ======
-- [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://arxiv.org/abs/2306.07111)  
+- [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://aclanthology.org/2023.acl-short.160/)  
   **Yu-Chen Lin**, Si-An Chen, Jie-Jyun Liu, Chih-Jen Lin  
   ACL 2023 (**Outstanding Paper Award**)
