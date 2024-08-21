@@ -30,7 +30,7 @@ Professional Experience
 
 Projects
 ======
-- Efficiency Enhancement in LLM Training
+- Efficiency Enhancement in LLM Training  
   Utilized CuPy for GPU arrays and enabled mixed precision training with MiniTorch for LLM development.
 - [Minimal Version of Sora](https://www.andrew.cmu.edu/course/16-726-sp24/projects/ylin7/project/)  
   Implemented with CLIP text encoder, diffusion transformer, DDIM scheduler, and classifier-free guidance.
