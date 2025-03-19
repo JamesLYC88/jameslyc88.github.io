@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- Machine Learning Engineer at Adobe Search.
+- Machine Learning Engineer at Adobe Search with a Master's in [Machine Learning at Carnegie Mellon University](https://www.ml.cmu.edu)
 - Focused on applied machine learning, particularly in search and recommendation systems, with experience at Adobe Search and Microsoft Bing Advertising.
 - Conducted NLP research at [MBZUAI](https://mbzuai.ac.ae) and [ASUS-AICS](https://aics.asus.com). My work [Linear Classifier: An Often-Forgotten Baseline for Text Classification](https://aclanthology.org/2023.acl-short.160/) has won ACL Outstanding Paper Award.
 - Contributor to [LibMultiLabel](https://github.com/ASUS-AICS/LibMultiLabel), a library for multi-class and multi-label classification.
